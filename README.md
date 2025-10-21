@@ -6,7 +6,7 @@ So I thought, why not literally draw it?
 
 After wanting to just display it as nodes and arrows, I remembered a cool HTML CSS animation I once saw on yt shorts of a dragon following the cursor on screen- Its body had segments like nodes and linked to each other
 one behind the other- and well, I wanted to try to make it so- here we are-
-Here is the link to that project that shox404 created- There is a cool interactive link on the page too if you want to check it out <>
+Here is the link to that project that shox404 created- There is a cool interactive link on the page too if you want to check it out <https://github.com/shox404/Interactive-Dragon>
 Every node is a part of the dragon’s body — the head leads, and the body gracefully follows.
 Yes, the dragon is your linked list.
 
